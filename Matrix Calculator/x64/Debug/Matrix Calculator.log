@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Desktop\Projects\DSA\Matrix Calculator\Matrix Calculator\main.cpp(64,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Projects\DSA\Matrix Calculator\Matrix Calculator\main.cpp(66,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Projects\DSA\Matrix Calculator\Matrix Calculator\main.cpp(75,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Projects\DSA\Matrix Calculator\Matrix Calculator\main.cpp(77,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Matrix Calculator.vcxproj -> D:\Desktop\Projects\DSA\Matrix Calculator\x64\Debug\Matrix Calculator.exe
